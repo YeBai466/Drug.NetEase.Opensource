@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drug.NetEase.Client", "Drug.NetEase.Client\Drug.NetEase.Client.csproj", "{1123E701-0F9E-4EDA-A200-8D06EF62AC46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drug.NetEase.Server", "Drug.NetEase.Server\Drug.NetEase.Server.csproj", "{4E7FF723-3BE6-4F0D-88AB-E8FC1E0E65DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1123E701-0F9E-4EDA-A200-8D06EF62AC46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1123E701-0F9E-4EDA-A200-8D06EF62AC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1123E701-0F9E-4EDA-A200-8D06EF62AC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1123E701-0F9E-4EDA-A200-8D06EF62AC46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E7FF723-3BE6-4F0D-88AB-E8FC1E0E65DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7FF723-3BE6-4F0D-88AB-E8FC1E0E65DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7FF723-3BE6-4F0D-88AB-E8FC1E0E65DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7FF723-3BE6-4F0D-88AB-E8FC1E0E65DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

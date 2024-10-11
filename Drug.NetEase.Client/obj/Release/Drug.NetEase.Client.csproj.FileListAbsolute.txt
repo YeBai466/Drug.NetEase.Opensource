@@ -1,0 +1,8 @@
+D:\源码\e\JSMH\Li\Drug.NetEase\Drug.NetEase.Client\bin\Release\Drug.NetEase.Client.exe
+D:\源码\e\JSMH\Li\Drug.NetEase\Drug.NetEase.Client\bin\Release\Drug.NetEase.Client.pdb
+D:\源码\e\JSMH\Li\Drug.NetEase\Drug.NetEase.Client\obj\Release\Drug.NetEase.Client.csproj.AssemblyReference.cache
+D:\源码\e\JSMH\Li\Drug.NetEase\Drug.NetEase.Client\obj\Release\Drug.NetEase.Client.Resources.resources.resources
+D:\源码\e\JSMH\Li\Drug.NetEase\Drug.NetEase.Client\obj\Release\Drug.NetEase.Client.csproj.GenerateResource.cache
+D:\源码\e\JSMH\Li\Drug.NetEase\Drug.NetEase.Client\obj\Release\Drug.NetEase.Client.csproj.CoreCompileInputs.cache
+D:\源码\e\JSMH\Li\Drug.NetEase\Drug.NetEase.Client\obj\Release\Drug.NetEase.Client.exe
+D:\源码\e\JSMH\Li\Drug.NetEase\Drug.NetEase.Client\obj\Release\Drug.NetEase.Client.pdb
