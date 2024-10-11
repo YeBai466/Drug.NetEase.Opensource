@@ -16,5 +16,9 @@
 ***您可將修改後的代碼進行分發 但禁止主動性質的收費 可被動收取讚賞 如分發必須讓用戶無償獲取到**
 
 
+![acd28f01ecc8f856ab32695f35dbb188](https://github.com/user-attachments/assets/71585f39-286f-4eb9-a757-90a9422402b8)
+
+
+
 # 喜歡我默然哥瞎罵無腦尬黑嗎?
 ![82b686179effbd46ebc647300d08435e(20240819-153014)](https://github.com/user-attachments/assets/c30fa02e-1578-4f43-abe0-6895ae6833b0)
