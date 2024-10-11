@@ -1,4 +1,4 @@
-**一個開源的C# NetEase快捷進入基岩版伺服器的方式**
+**一個開源的C# NetEase快捷進入基岩版伺服器的程式**
 
 
 無任何保留 不附帶發行版本 請自行編譯
@@ -18,6 +18,11 @@
 
 ![acd28f01ecc8f856ab32695f35dbb188](https://github.com/user-attachments/assets/71585f39-286f-4eb9-a757-90a9422402b8)
 
+
+如果你需要一個現成PC進入 NetEase PE伺服器 的程式/或者想支持開發者
+
+
+可以前往https://shop.xn--6krz1l.xn--io0a7i 購買Zone NELauncher 支持大部分NetEase PC/PE伺服器 價格實惠
 
 
 # 喜歡我默然哥瞎罵無腦尬黑嗎?
