@@ -22,8 +22,5 @@
 如果你需要一個現成PC進入 NetEase PE伺服器 的程式/或者想支持開發者
 
 
-可以前往https://shop.xn--6krz1l.xn--io0a7i 購買Zone NELauncher 支持大部分NetEase PC/PE伺服器 價格實惠
-
-
 # 喜歡我默然哥瞎罵無腦尬黑嗎?
 ![82b686179effbd46ebc647300d08435e(20240819-153014)](https://github.com/user-attachments/assets/c30fa02e-1578-4f43-abe0-6895ae6833b0)
